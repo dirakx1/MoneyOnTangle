@@ -1,7 +1,7 @@
 # EasyGiro
 
 Distributed ledger for money transfer between clients. 
-<img src="./easyg.jpg">
+<img src="./EasyGiro.png">
 
 
 * IOTA ledger
