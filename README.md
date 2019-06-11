@@ -6,3 +6,4 @@ Distributed ledger for money transfer between clients.
 
 * IOTA ledger
 * Interaction api : considerations, microservice oriented arquitecture on k8s (GCP). 
+* Clients can be any IOT devices. 
