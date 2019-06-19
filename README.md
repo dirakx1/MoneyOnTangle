@@ -12,11 +12,14 @@ Distributed ledger for money transfer between clients.
 
 ### Python based API
 
-### Infrastructure 
-microservice oriented arquitecture on k8s (GCP or AWS).
+* The interaction api will be documented on apicore
+
+### Infrastructure considerations 
+
+Microservice oriented arquitecture on k8s (GCP or AWS).
 the microservices convert IOTA /to hardcurrency or hardcurrency to IOTA 
 and connect to banks APIs
 
 
-## Notes
+## Notes and other considerations
 * Clients can be any IOT devices. 
