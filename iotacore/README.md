@@ -8,5 +8,9 @@
 we use: https://github.com/iotaledger/iota.lib.py
 
 
+## Requirements to test the interactions with IOTA
+
+* pip install pyota
+* pip install pyota[ccurl]
 
 
