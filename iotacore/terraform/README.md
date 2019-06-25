@@ -1,3 +1,3 @@
 # Terraform
 
-Terraform recipe for making a IOTa node for easygiro 
+Terraform recipe for making a IOTA node for easygiro 
