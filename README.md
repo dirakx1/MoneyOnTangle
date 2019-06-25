@@ -13,7 +13,7 @@ in this case money transfering.
 ## Interaction API
 
 The interaction api is in charge of making calculations to change hard currency to 
-iota and viceverza, also it makes posible comminication with banks services.  
+iota and viceverza, also it makes posible communication with banks services.  
 
 ### Python based API
 
