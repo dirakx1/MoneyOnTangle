@@ -8,7 +8,7 @@ api = Iota(
 
     # Access token used to authenticate requests.
     # Contact the node maintainer to get an access token.
-    auth_token = 'auth token goes here',
+    auth_token = '7ad7d36f-f833-44fd-b77e-59eea41e213b',
   ),
 
   # Seed used for cryptographic functions.
