@@ -6,9 +6,9 @@ Distributed ledger for money transfer between clients.
 
 ## IOTA ledger
 
-* The iota ledger makes possible to do real time transactions, 
+* IOTA ledger makes possible to do real time transactions, 
 in this case money transfering.  
-* The iota ledger use is docummented in iotacore
+* IOTA ledger use is docummented in iotacore
 
 ## Interaction API
 
@@ -21,8 +21,8 @@ iota and viceverza, also it makes posible comminication with banks services.
 
 ### Infrastructure considerations 
 
-Microservice oriented arquitecture on k8s (GCP or AWS).
-the microservices convert IOTA /to hardcurrency or hardcurrency to IOTA 
+* Microservice oriented arquitecture on k8s (GCP or AWS).
+* The microservices convert IOTA /to hardcurrency or hardcurrency to IOTA 
 and connect to banks APIs
 
 
