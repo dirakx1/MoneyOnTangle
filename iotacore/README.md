@@ -1,8 +1,10 @@
-# Iota core for easygiro
+# Iotacore for easygiro
 
-* First we can start interacting with MAINET, using a python or go library 
-(this is before we have our own node, that would be terraformed) 
 
+* IOtacore will be in charge of controlling the money transfer transactions. 
+
+* As example we can interac with MAINET, using a python or go library 
+(this is before we have our own node, that would be terraformed) for this purpose 
 we use: https://github.com/iotaledger/iota.lib.py
 
 
