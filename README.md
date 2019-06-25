@@ -26,5 +26,5 @@ the microservices convert IOTA /to hardcurrency or hardcurrency to IOTA
 and connect to banks APIs
 
 
-## Notes and other considerations
+## Notes
 * Clients can be any IOT devices. 
