@@ -1,7 +1,7 @@
 # Iotacore for easygiro
 
 
-* Iotacore will be in charge of controlling the money transfer transactions. 
+* Iotacore will be in charge of controlling the money transactions. 
 
 * As example we can interact with MAINET, using a python or go library 
 (this is before we have our own node, that would be terraformed) for this purpose 
