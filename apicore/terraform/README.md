@@ -1,1 +1,1 @@
-init 
+Terraform recipies for Easygiro apicore. 
