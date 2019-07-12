@@ -8,7 +8,7 @@
 we use: https://github.com/iotaledger/iota.lib.py
 
 ## hello world
-* see examples/helloworld
+* See iota.lib/examples/helloworld
 
 ## tests
 

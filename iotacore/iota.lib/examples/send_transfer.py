@@ -97,7 +97,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--uri',
         type=text_type,
-        default='http://localhost:14265/',
+        default='http://localhost:14265/',  # TODO change to dev node
         help=
         'URI of the node to connect to.'
         '(defaults to http://localhost:14265/).',
