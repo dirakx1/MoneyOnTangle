@@ -46,7 +46,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--uri',
         type=text_type,
-        #default='http://localhost:14265/', # we dont have a lpcañ node
+        #default='http://localhost:14265/', # we dont have a local node
         default='https://nodes.devnet.iota.org:443',
 
         help=(

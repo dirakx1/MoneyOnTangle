@@ -1,6 +1,6 @@
 # coding=utf-8
 """
-Generates a shiny new IOTA address that you can use for transfers!
+Simple example that Generates a shiny new IOTA address that you can use for transfers!
 """
 
 from __future__ import absolute_import, division, print_function, \
@@ -20,7 +20,7 @@ from iota.crypto.types import Seed
 
 def main(uri, index, count, security, checksum):
     # type: (Text, int, Optional[int], Optional[int], bool) -> None
-    seed = get_seed()
+    seed = get_seed() # get seed
 
     # Create the API instance.
     # Note: If ``seed`` is null, a random seed will be generated.
@@ -33,7 +33,7 @@ def main(uri, index, count, security, checksum):
         output_seed(api.seed)
 
     print('Generating addresses.  This may take a few minutes...')
-    print('')
+    print('.....................................................')
 
     # Here's where all the magic happens!
     api_response = api.get_new_addresses(index, count, security, checksum)
@@ -89,7 +89,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--uri',
         type=text_type,
-        default='http://localhost:14265/', # TODO Change for example node
+        default='https://nodes.devnet.iota.org:443', # TODO Change for our own node
 
         help=(
             'URI of the node to connect to '
