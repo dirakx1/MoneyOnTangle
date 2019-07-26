@@ -7,7 +7,7 @@ Distributed ledger for money transfer between clients.
 ## IOTA ledger
 
 * IOTA ledger makes possible to do real time transactions, 
-in this case money transfering.  
+in our case money transfering!.  
 * IOTA ledger use is docummented in [[iotacore]]
 
 ## Interaction API
