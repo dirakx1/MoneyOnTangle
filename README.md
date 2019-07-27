@@ -7,7 +7,7 @@ Distributed ledger for money transfer between clients.
 ## IOTA ledger
 
 * IOTA ledger makes possible to do real time transactions, 
-in our case money transfering!.  
+in our case money transfers!.  
 * IOTA ledger use is docummented in [[iotacore]]
 
 ## Interaction API
@@ -15,9 +15,9 @@ in our case money transfering!.
 The interaction api is in charge of making calculations to change hard currency to 
 iota and viceverza, also it makes posible communication with banks services.  
 
-### Python based API
+### The Interaction API is Python based
 
-* The interaction api will be documented on [[apicore]]
+* The interaction api is documented on [[apicore]]
 
 ### Infrastructure considerations 
 
