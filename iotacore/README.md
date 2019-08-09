@@ -3,15 +3,11 @@
 
 * Iotacore will be in charge of controlling money transactions. 
 
-* As example we can interact with DEVNET and MAINET, using a python or go library 
+* As example we can interact with DEVNET for testing purposes, using a python or go client library 
 (this is before we have our own node, that would be terraformed) for this purpose 
-we use: https://github.com/iotaledger/iota.lib.py or 
-https://docs.iota.org/docs/iota-go/0.1/README
-
-## Hello world
-* See iota.lib/examples/helloworld
-
-## Tests
+we use: 
+* https://github.com/iotaledger/iota.lib.py or 
+* https://docs.iota.org/docs/iota-go/0.1/README
 
 
 ## Requirements 
@@ -24,4 +20,19 @@ the folowing dependencies.
 
 But you can also use the go client library. 
 
-## References
+
+## Test Workflow for our Iotacore 
+
+* Create a seed an store it
+
+```
+cat /dev/urandom |tr -dc A-Z9|head -c${1:-81} 
+```
+* Make test api requests, for our purpose usign the python client:
+```
+python iota.lib/hello_world.py
+```
+* Send a transaction to a node. 
+
+
+After test are donr you can be sure that you can use iotacore. 
