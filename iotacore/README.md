@@ -19,6 +19,7 @@ the folowing dependencies.
 * pip install pyota[ccurl]
 
 But you can also use the go client library, or the node library
+for the node library you have to install:
 
 * npm install @iota/core
 
@@ -37,11 +38,13 @@ python iota.lib/hello_world.py
 Or: 
 
 ```
-node test_node.js
+node node_working/test-node.js
 ```
 
+* Send a test money transaction to a node. 
 
-* Send a transaction to a node in our case a money representation transaction. 
-
+```
+node node_working/data-transaction.js
+```
 
 After tests you can be sure that you can use iotacore. 
