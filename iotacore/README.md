@@ -47,4 +47,4 @@ node node_working/test-node.js
 node node_working/data-transaction.js
 ```
 
-After tests you can be sure that you can use iotacore. 
+After tests you can be sure that you can use iotacore!. 
