@@ -1,14 +1,15 @@
-# EasyGiro
+# EasyGiro -Libra
 
-Distributed ledger for money transfer between clients. 
+Distributed ledger for money transfer between clients, 
+using libra framework  
 <img src="./EasyGiro.png">
 
 
-## IOTA ledger
+## Libra ledger
 
-* IOTA ledger makes possible to do real time transactions, 
+* Libra ledger makes possible to do real time transactions, 
 in our case money transfers!.  
-* IOTA ledger use and specifics are docummented in [[iotacore]]
+* Libra ledger use and specifics are docummented in [[libracore]]
 
 ## Interaction API
 
@@ -22,9 +23,9 @@ iota and viceverza, also it makes posible communication with banks services.
 ### Infrastructure considerations 
 
 * Microservice oriented arquitecture on k8s (GCP or AWS).
-* The microservices convert IOTA /to hardcurrency or hardcurrency to IOTA 
+* The microservices convert Libra /to hardcurrency or hardcurrency to Libra 
 and connect to banks APIs
 
 
 ## Notes
-* Clients can be any IOT devices. 
+* Clients can be any devices. 
