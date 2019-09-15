@@ -25,6 +25,9 @@ iota and viceverza, also it makes posible communication with banks services.
 * The microservices convert IOTA /to hardcurrency or hardcurrency to IOTA 
 and connect to banks APIs
 
+## Contact
+
+If you wish invest/found this project please contact dirakx@gmail.com
 
 ## Notes
 * Clients can be any IOT devices. 
