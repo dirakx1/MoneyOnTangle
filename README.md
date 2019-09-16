@@ -4,6 +4,9 @@ Distributed ledger for money transfer between clients.
 <img src="./EasyGiro.png">
 
 
+Money transacions are represented as data transfer into the tangle,
+the real world use of the data depends on the interaction api. 
+
 ## IOTA ledger
 
 * IOTA ledger makes possible to do real time transactions, 
@@ -22,9 +25,10 @@ iota and viceverza, also it makes posible communication with banks services.
 ### Infrastructure considerations 
 
 * Microservice oriented arquitecture on k8s (GCP or AWS).
-* The microservices convert IOTA /to hardcurrency or hardcurrency to IOTA 
+* The microservices can convert IOTA /to hardcurrency or hardcurrency to IOTA 
 and connect to banks APIs
 
 
-## Notes
-* Clients can be any IOT devices. 
+## Clients
+* Clients can be any IOT devices (smartphones, smartwatch, latops..)  
+
