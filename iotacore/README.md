@@ -50,6 +50,7 @@ node node_working/data-transaction.js
 After tests you can be sure that you can use iotacore!. 
 We are not sending tokens so a data trasnfer is enough to represent what we want!. 
 
-# Sending money in apicore 
+# Money transfer in iotacore 
+
 
 
