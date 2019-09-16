@@ -30,7 +30,7 @@ and connect to banks APIs
 
 ## Contact
 
-If you wish invest/found this project please contact dirakx@gmail.com
+If you wish to invest/found this project please contact dirakx@gmail.com
 
 ## Clients
 * Clients can be any IOT devices (smartphones, smartwatch, latops..)  
