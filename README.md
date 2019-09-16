@@ -4,7 +4,7 @@ Distributed ledger for money transfer between clients.
 <img src="./EasyGiro.png">
 
 
-Money transacions are represented as data transfer into the tangle,
+Money transacions can be represented as data transfer into the tangle,
 the real world use of the data depends on the interaction api. 
 
 ## IOTA ledger
