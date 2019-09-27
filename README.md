@@ -1,8 +1,8 @@
-# EasyGiro -Libra
+# EasyGiro - Libra
 
 Distributed ledger for money transfer between clients, 
 using libra framework  
-<img src="./EasyGiro.png">
+<img src="./EasyGiroLibra.png">
 
 
 ## Libra ledger
