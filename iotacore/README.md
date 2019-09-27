@@ -31,7 +31,8 @@ for the node library you have to install:
 ```
 cat /dev/urandom |tr -dc A-Z9|head -c${1:-81} 
 ```
-* Make test api requests, for our purpose usign the python client:
+* Make test api requests, for our purpose using the python client:
+
 ```
 python iota.lib/hello_world.py
 ```
@@ -47,10 +48,19 @@ node node_working/test-node.js
 node node_working/data-transaction.js
 ```
 
-After tests you can be sure that you can use iotacore!. 
-We are not sending tokens so a data trasnfer is enough to represent what we want!. 
+After tests you can be sure that you can use iotacore!.
+also you can look into your unique transaction on the tangle explorer (https://devnet.thetangle.org/)
+We are not sending tokens so a data transfer is enough to represent what we want!. 
 
-# Money transfer in iotacore 
+# Example of money transfer in iotacore 
 
+## Sending 10 usd.
+ 
+## Recieving 10 usd. 
+
+
+### Next steps
+
+* Take a look at apicore 
 
 
