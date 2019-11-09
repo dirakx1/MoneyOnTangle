@@ -3,9 +3,10 @@
 
 * Iotacore will be in charge of controlling money transactions. 
 
-* As example we can interact with DEVNET for testing purposes, using a python/go/node/rust? client library 
-(this is before we have our own node, that would be terraformed) for this purpose 
-we can use: 
+* As example we can interact with DEVNET for testing (and validation of easygiro workflow) purposes, using a python/go/node/rust etc client library for this purpose 
+
+For example :
+
 * https://github.com/iotaledger/iota.lib.py or 
 * https://docs.iota.org/docs/iota-go/0.1/README or the lenguage of your preference.
 
