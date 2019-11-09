@@ -59,7 +59,9 @@ CarrIOTA Bolero is a cross-platform desktop application (Windows, Mac & Linux) t
 * If you need statistics and aditional security features install CarrIOTA field
 
 
-
-
  ## References
  * https://github.com/iotaledger/iri
+ * https://iri-playbook.readthedocs.io/en/master/getting-started-quickly.html
+ * https://iota.partners/
+ 
+ 
