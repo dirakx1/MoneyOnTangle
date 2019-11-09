@@ -11,7 +11,7 @@ the real world use of the data depends on the interaction api.
 
 * IOTA ledger makes possible to do real time transactions, 
 in our case money transfers!.  
-* IOTA ledger use and specifics are docummented in [[iotacore]]
+* IOTA ledger use and specifics are docummented in [iotacore](/iotacore/README.md)
 
 ## Interaction API
 
