@@ -28,6 +28,9 @@ for the node library you have to install:
 npm install @iota/core
 ```
 
+Complete information about the library can be found here:
+* https://github.com/iotaledger/iota.lib.js
+
 ## Test Workflow for our Iotacore 
 
 * Create a seed an store it
