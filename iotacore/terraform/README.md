@@ -41,6 +41,11 @@ REMOTE_LIMIT_API = "removeNeighbors, addNeighbors, interruptAttachingToTangle, a
 NEIGHBORS = 
 EOF
 ```
+* Search for neighbors
+* Start IRI (replace y.y.y.y for iri version)
+```
+java -jar iri-y.y.y.y.jar -c iota.ini
+```
 
  ## References
  * https://github.com/iotaledger/iri
