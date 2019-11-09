@@ -12,13 +12,15 @@ Terraform recipe for making a IOTA full node for easygiro.
  
 * Install IRI
 
+```
 git clone https://github.com/iotaledger/iri
 cd iri
 mvn clean compile && mvn package
+```
 
 * Install neighbors
 
-Install statics neighbors addresses in order to run your full node. you could have up to have 4,5 neighbors on basic configuration (4gb RAM, 1/2 cores), less than 3 and your node will be too slow and not more than 7.
+Install statics neighbors addresses in order to run your full node. you could have up to have 4,5 neighbors on basic configuration (4gb RAM, 1/2 cores), less than 3 and your node will be too slow and not more than 7 (based on your computation capacity).
 
 ```
 cat << "EOF" | sudo tee iota.ini
