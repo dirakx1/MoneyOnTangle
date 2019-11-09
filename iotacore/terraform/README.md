@@ -48,8 +48,17 @@ java -jar iri-y.y.y.y.jar -c iota.ini
 ```
 
 * Install IRI tools
-** Install Carriota nelson https://github.com/SemkoDev/nelson.cli
-Carriota nelson is “Nelson is a tool meant to be used with IOTA’s IRI Node. It automatically manages neighbors of your full node, negotiating connections, finding new neighbors and protecting against bad actors.”.
+* Install CarrIOTA nelson https://github.com/SemkoDev/nelson.cli
+Carriota nelson is “Nelson is a tool meant to be used with IOTA’s IRI Node. It automatically manages neighbors of your full node, negotiating connections, finding new neighbors and protecting against bad actors.”
+
+* Install and start a nelson node. 
+
+* Install CArrIOTA bolero node
+CarrIOTA Bolero is a cross-platform desktop application (Windows, Mac & Linux) that lets you start an IOTA full node with a single click (using IRI & Nelson P2P). In other words, if it wasn’t “user-friendly” for people so far, it’s now basically just pressing a single button to launch your full node through bolero application
+
+* If you need statistics and aditional security features install CarrIOTA field
+
+
 
 
  ## References
