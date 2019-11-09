@@ -20,7 +20,7 @@ iota and viceverza, also it makes posible communication with banks services.
 
 ### The Interaction API is Python based
 
-* The interaction api specifics are documented on [[/EasyGiro/tree/master/apicore]]
+* The interaction api specifics are documented on  [apicore](/apicore/README.md)
 
 ### Infrastructure considerations 
 
