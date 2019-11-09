@@ -58,7 +58,8 @@ CarrIOTA Bolero is a cross-platform desktop application (Windows, Mac & Linux) t
 
 * If you need statistics and aditional security features install CarrIOTA field
 
-* Private node
+# Private Tangle and node
+
 * https://docs.iota.org/docs/compass/0.1/how-to-guides/set-up-a-private-tangle
 
  ## References
