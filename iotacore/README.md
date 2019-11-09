@@ -1,13 +1,13 @@
-# Iotacore for easygiro
+# Iotacore for Easygiro
 
 
 * Iotacore will be in charge of controlling money transactions. 
 
 * As example we can interact with DEVNET for testing purposes, using a python/go/node/rust? client library 
 (this is before we have our own node, that would be terraformed) for this purpose 
-we use: 
+we can use: 
 * https://github.com/iotaledger/iota.lib.py or 
-* https://docs.iota.org/docs/iota-go/0.1/README
+* https://docs.iota.org/docs/iota-go/0.1/README or the lenguage of your preference.
 
 
 ## Requirements 
@@ -15,14 +15,17 @@ we use:
 To test the interactions with IOTA using Pyota you have to install
 the folowing dependencies. 
 
-* pip install pyota
-* pip install pyota[ccurl]
+```
+pip install pyota
+pip install pyota[ccurl]
+```
 
 But you can also use the go client library, or the node library
 for the node library you have to install:
 
-* npm install @iota/core
-
+```
+npm install @iota/core
+```
 
 ## Test Workflow for our Iotacore 
 
