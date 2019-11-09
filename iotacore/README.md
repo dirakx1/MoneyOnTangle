@@ -20,7 +20,7 @@ pip install pyota
 pip install pyota[ccurl]
 ```
 
-But you can also use the go client library, or the node library
+Also you can use the go client library, or the node library
 for the node library you have to install:
 
 ```
