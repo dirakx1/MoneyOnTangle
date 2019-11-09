@@ -47,5 +47,10 @@ EOF
 java -jar iri-y.y.y.y.jar -c iota.ini
 ```
 
+* Install IRI tools
+** Install Carriota nelson https://github.com/SemkoDev/nelson.cli
+Carriota nelson is “Nelson is a tool meant to be used with IOTA’s IRI Node. It automatically manages neighbors of your full node, negotiating connections, finding new neighbors and protecting against bad actors.”.
+
+
  ## References
  * https://github.com/iotaledger/iri
