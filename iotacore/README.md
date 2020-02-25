@@ -61,9 +61,8 @@ We are not sending tokens so a data transfer is enough to represent what we want
 
 # Example of money transfer in iotacore 
 
-## Sending 10 usd.
- 
-## Recieving 10 usd. 
+## API core  development
+* https://github.com/jcortes/easygiro-server/blob/master/README.md
 
 
 ### Next steps
