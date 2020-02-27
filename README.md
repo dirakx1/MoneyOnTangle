@@ -28,4 +28,4 @@ and connect to banks APIs
 
 
 ## Notes
-* Clients can be any devices. 
+* Clients can be any kind of device. 
