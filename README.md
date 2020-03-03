@@ -18,7 +18,7 @@ in our case money transfers!. (these transactions are "feeless" and can be "micr
 The interaction api is in charge of making calculations to change hard currency to 
 iota and viceverza, also it makes posible communication with banks services.  
 
-* The interaction api specifics are documented on  [apicore](/apicore/README.md)
+* The interaction api specifics are documented on [apicore](https://github.com/jcortes/easygiro-server)
 
 ### Infrastructure considerations 
 
