@@ -30,3 +30,10 @@ and connect to banks APIs
 ## Clients
 * Clients can be any IOT devices (smartphones, smartwatch, latops..)  
 
+## Use cases. 
+* International transfers
+* Local transfers 
+
+
+
+
