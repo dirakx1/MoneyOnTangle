@@ -10,10 +10,10 @@
 * Finantial Workflow
 
 ** 1. Cellphone . Transfi ya 
-** Knowing the amount. 
-** transferina an amount to Our IOTA - blockchain wallet. 
-** Going back to transfi ya.-. if needed. if not transfer to blackchain wallet.
-** User could know the trazability of the transaction. 
+** 2. Knowing the amount. 
+** 3. transferina an amount to Our IOTA - blockchain wallet. 
+** 4. Going back to transfi ya.-. if needed. if not transfer to blackchain wallet.
+** 5. User could know the trazability of the transaction. 
 
 
 
