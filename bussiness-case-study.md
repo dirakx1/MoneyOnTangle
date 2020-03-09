@@ -5,7 +5,7 @@
 
 * How much could  a transaction cost ? 
 
-* Our main focus could be micro paymets or micro transfers. 
+* Our main focus could be micro payments or micro transfers. 
 
 * Proposed finantial Workflow
 
