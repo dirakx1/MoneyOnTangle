@@ -3,6 +3,8 @@
 
 * For starters Easygiro can be coupled to work without any specifical backend if you have a cripto wallet. 
 
+* Competitors 
+
 * How much could  a transaction cost ? 
 
 * Our main focus could be micro payments or micro transfers. 
