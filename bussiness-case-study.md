@@ -8,8 +8,8 @@
 
 <img src="./finantial-workflow.png">
 
-* 1. Cellphone/Laptop . Transfi ya (UI in top of transfiya and/or IOTA)  
-* 2. Easygiro/Transfiya should give us the amount to transfer. 
+* 1. Cellphone/Laptop. Easygiro UI (in top of transfiya/PSE and/or IOTA)  
+* 2. Easygiro/Transfiya(PSE) should give us the amount to transfer. 
 * 3. Transfer that amount to Our IOTA - blockchain wallet.
 * 3. (A) Also another posibility could be transfering to a normal bank account and then this could be claim at a physical point. (Efecty / servientrega. Know the regulations. Show them the soluttion . with demo. 
 * 4. Going back to transfiya - Easygiro. if needed. if not transfer to blackchain wallet.
