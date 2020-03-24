@@ -60,6 +60,21 @@ CarrIOTA Bolero is a cross-platform desktop application (Windows, Mac & Linux) t
 
 # Private Tangle and node
 
+## Install dependencies. 
+* sudo apt-get install pkg-config zip g++ zlib1g-dev unzip python
+## Download bazel installer 
+* wget https://github.com/bazelbuild/bazel/releases/download/0.18.0/bazel-0.18.0-installer-linux-x86_64.sh
+* chmod +x bazel-0.18.0-installer-linux-x86_64.sh
+* ./bazel-0.18.0-installer-linux-x86_64.sh --user
+* sudo apt install apt-transport-https ca-certificates curl software-properties-common
+# Install docker 
+# Install jq
+# clone and install compass 
+* git clone https://github.com/iotaledger/compass.git
+* cd compass
+* bazel run //docker:layers_calculator
+
+
 * https://docs.iota.org/docs/compass/0.1/how-to-guides/set-up-a-private-tangle
 
  ## References
