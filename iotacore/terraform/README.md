@@ -71,8 +71,7 @@ chmod +x bazel-0.18.0-installer-linux-x86_64.sh
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
 
 ```
-# Install docker 
-
+## Install docker 
 ```
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
@@ -85,14 +84,18 @@ sudo add-apt-repository universe
 sudo apt install jq
 ```
 
-# Clone and install compass 
+## Clone and install compass 
 
 ```
 git clone https://github.com/iotaledger/compass.git
 cd compass
 bazel run //docker:layers_calculator
 ```
-
+## Create seed 
+* Create a backup for this seed. 
+```
+cat /dev/urandom |LC_ALL=C tr -dc 'A-Z9' | fold -w 81 | head -n 1 
+```
 
 
  ## References
