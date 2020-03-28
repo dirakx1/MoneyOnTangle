@@ -23,5 +23,9 @@ RUN apt-get install -y jq locate
 ## Clone and install compass 
 
 RUN git clone https://github.com/iotaledger/compass.git
-RUN cd compass && /root/.bazel/bin/bazel run //docker:layers_calculator
+#COPY  ./repositories.bzl /root/.cache/bazel/_bazel_root/7204152f44cd9d3a6393832a12e06764/external/io_grpc_grpc_java/
+#RUN cd compass && /root/.bazel/bin/bazel run //docker:layers_calculator
+RUN cat /dev/urandom |LC_ALL=C tr -dc 'A-Z9' | fold -w 81 | head -n 1
+RUN cd compass/docs/private_tangle
 
+ 
