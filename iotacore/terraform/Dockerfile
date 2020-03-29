@@ -27,5 +27,13 @@ RUN git clone https://github.com/iotaledger/compass.git
 #RUN cd compass && /root/.bazel/bin/bazel run //docker:layers_calculator
 RUN cat /dev/urandom |LC_ALL=C tr -dc 'A-Z9' | fold -w 81 | head -n 1
 RUN cd compass/docs/private_tangle
-
+RUN cp config.example.json config.json
+RUN ./01_calculate_layers.sh
+RUN touch snapshot.txt
+RUN ./02_run_iri.sh
+RUN cd ~/compass/ && bazel run //docker:coordinator
+RUN cd docs/private_tangle
+RUN ./03_run_coordinator.sh -bootstrap -broadcast
+ 
+ 
  
