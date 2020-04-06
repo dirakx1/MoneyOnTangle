@@ -15,7 +15,8 @@
 a web service that tells us the amount of money transfered to the local bank account. 
 * 4. Going back to transfiya/Payzen - Easygiro. if needed. if not transfer to blackchain wallet.
 
-* Competitors 
+### Competitors / allies
+* powwi 
 
 * How much could  a transaction cost ? 
 
@@ -24,7 +25,8 @@ a web service that tells us the amount of money transfered to the local bank acc
 
 ## Advantages of a DLT. 
 * Knowing the state of the transaction in any given time.
-* Not having to rely on a centralized solution (pse/payzen/credibanco) 
+* Easy interactions with digital currencies.
+* Not having to rely on a centralized solution (pse/payzen/credibanco...) 
 
 #### References. 
 * https://www.achcolombia.com.co/transfiya
