@@ -28,11 +28,14 @@ and connect to banks APIs
 
 
 ## Clients
-* Clients can be any IOT devices (smartphones, smartwatch, latops..)  
+* Clients can be any IOT devices (smartphones, smartwatch, latops..) 
+* Also it can be used to pick in place transfers
 
 ## Use cases. 
 * International transfers
 * Local transfers 
+* Local tranfers in hard currencies
+
 
 
 
