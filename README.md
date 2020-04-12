@@ -35,6 +35,7 @@ and connect to banks APIs
 * International transfers
 * Local transfers 
 * Local tranfers in hard currencies
+* [business case](bussiness-case-study.md)
 
 
 
