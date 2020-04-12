@@ -17,10 +17,20 @@ a web service that tells us the amount of money transfered to the local bank acc
 
 ### Competitors / allies
 * International transfer services: western union 
-* Powwi (payments) 
-* Nequi,
-* How much could  a transaction cost ? 
-* Our main focus could be micro payments or micro transfers.
+* Powwi (Payments) 
+* Nequi
+* Efecty / Servientrega
+
+* Transaction cost Efecty
+```
+$5.000 - $50.000 	$ 4.000
+$50.001 - $100.000 	$ 6.000
+$100.001 - $150.000 	$ 7.500
+$150.001 - $200.000 	$ 8.300
+$200.001 - $500.000 	$3.000+3%
+$500.001 - $1.000.000 	2,99%*
+```
+* Our main focus could be micro payments or micro transfers from foreing countries
 * Also for people that dont have bank accounts.
 
 ## Advantages of a DLT. 
