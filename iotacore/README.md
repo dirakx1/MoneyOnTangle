@@ -68,5 +68,5 @@ We are not sending tokens so a data transfer is enough to represent what we want
 ### Next steps
 
 * Take a look at [apicore](/apicore/README.md), to interact with your bank or finantial provider services. 
-
+* https://github.com/iota-community/python-iota-workshop
 
