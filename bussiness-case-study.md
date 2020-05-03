@@ -19,7 +19,9 @@ a web service that tells us the amount of money transfered to the local bank acc
 * International transfer services: western union 
 * Powwi (Payments) 
 * Nequi
-* Efecty / Servientrega
+* Efecty / Servientrega.
+* Probably a good application could be iota transfer between iota wallets, the intereaction with local banks via powwi-
+ 
 
 * Transaction cost Efecty
 ```
