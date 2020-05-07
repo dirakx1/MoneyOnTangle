@@ -20,7 +20,7 @@ a web service that tells us the amount of money transfered to the local bank acc
 * Powwi (Payments) 
 * Nequi
 * Efecty / Servientrega.
-* Probably a good application could be iota transfer between iota wallets, the intereaction with local banks via powwi-
+* Probably a good application could be iota transfer between iota wallets and then make the intereaction with local banks via powwi- (im doing a quotation for powwi)
  
 
 * Transaction cost Efecty
