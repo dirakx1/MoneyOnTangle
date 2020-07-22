@@ -43,4 +43,4 @@ $500.001 - $1.000.000 	2,99%*
 
 #### References. 
 * https://www.achcolombia.com.co/transfiya
-* 
+* payzen (pasarela de pagos). 
