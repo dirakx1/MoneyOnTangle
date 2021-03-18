@@ -1,4 +1,4 @@
-# EasyGiro
+# MoneyOnTangle
 
 Distributed ledger for money transfer between clients. 
 <img src="./EasyGiro.png">
