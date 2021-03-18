@@ -23,7 +23,7 @@ iota and viceverza, also it makes posible communication with banks services.
 ### Infrastructure considerations 
 
 * Microservice oriented arquitecture on k8s (GCP or AWS or others).
-* The microservices can convert IOTA /to hardcurrency or hardcurrency to IOTA 
+* The microservices can convert IOTA -to- fiat or fiat to IOTA 
 and connect to banks APIs
 
 
