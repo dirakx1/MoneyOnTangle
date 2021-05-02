@@ -1,7 +1,8 @@
 
 # Introduction. 
 
-* For starters Easygiro can be coupled to work without any specifical backend if you have a cripto wallet. 
+* For starters MoneyOnTangle can be coupled to work without any specifical backend 
+  if you have a cripto wallet. 
 
 
 ## Proposed finantial Workflow

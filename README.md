@@ -1,40 +1,34 @@
 # MoneyOnTangle
 
-Distributed ledger for money transfer between clients. 
+Transfer stable coins  on the tangle. 
 <img src="./EasyGiro.png">
 
 
 Money transactions can be represented as data transfer into the tangle,
 the real world use of the data depends on the interaction api. 
 
-## IOTA ledger
+## IOTA 
 
-* IOTA ledger makes possible to do real time transactions, 
-in our case money transfers!. (these transactions are "feeless" and can be "microtransactions") 
+* IOTA makes possible to do real time transactions, 
+in our case stable coin transfers!. (these transactions are "feeless" and can be "microtransactions") 
 * IOTA ledger use and specifics are docummented in [iotacore](/iotacore/README.md)
 
 ## Interaction API
 
-The interaction api is in charge of making calculations to change hard currency to 
-iota and viceverza, also it makes posible communication with banks services.  
+The interaction api is in charge of exposing MoneyOnTangle features to other kinds of applications.  
 
 * The interaction api specifics are documented on [apicore](https://github.com/jcortes/easygiro-server)
 
 ### Infrastructure considerations 
 
 * Microservice oriented arquitecture on k8s (GCP or AWS or others).
-* The microservices can convert IOTA -to- fiat or fiat -to- IOTA 
-and connect to banks APIs
-
 
 ## Clients
 * Clients can be any IOT devices (smartphones, smartwatch, laptops..) 
-* Also, it can be used to pick in place transfers
 
 ## Use cases. 
-* International transfers
-* Local transfers 
-* Local tranfers in hard currencies
+* International stable coin transfers
+* Local stable coin transfers 
 * [business case](bussiness-case-study.md)
 
 
