@@ -1,16 +1,13 @@
 # MoneyOnTangle
 
-Transfer stable coins  on the tangle. 
-<img src="./EasyGiro.png">
-
+Transfer stablecoins  on the tangle. 
 
 Money transactions can be represented as data transfer into the tangle,
-the real world use of the data depends on the interaction api. 
 
 ## IOTA 
 
 * IOTA makes possible to do real time transactions, 
-in our case stable coin transfers!. (these transactions are "feeless" and can be "microtransactions") 
+in our case stable coin transfers!. (these transactions are "feeless" and can be also "microtransactions") 
 * IOTA ledger use and specifics are docummented in [iotacore](/iotacore/README.md)
 
 ## Interaction API
@@ -27,8 +24,8 @@ The interaction api is in charge of exposing MoneyOnTangle features to other kin
 * Clients can be any IOT devices (smartphones, smartwatch, laptops..) 
 
 ## Use cases. 
-* International stable coin transfers
-* Local stable coin transfers 
+* International StableCoin transfers
+* Local StableCoin transfers 
 * [business case](bussiness-case-study.md)
 
 
