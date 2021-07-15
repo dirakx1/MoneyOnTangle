@@ -2,7 +2,7 @@
 # Introduction. 
 
 * For starters MoneyOnTangle can be coupled to work without any specifical backend 
-  if you have a cripto wallet. 
+  if you have a crypto wallet. 
 
 
 ## Proposed finantial Workflow
