@@ -1,6 +1,12 @@
-* Install pollen-wallet
-* Create asset (coloread coin/token), using avaialble IOTa balance. 
-* use cli-wallet to interact and learn about DA and colored coins. 
-* install configure SC env. 
-* Define smart cdontracts 
+* Install wallet
+* Create asset (colored coin/token), using avaialble IOTA balance. 
+* Use cli-wallet to interact and learn about DA and colored coins. 
+* Install configure SC env. 
+* Define stablecoin smart contract 
+```
+The smart contract should  be in charge of:
+* stablishing the IOTA/USD equivalnce and algorithm
+* minting new swicks (Iota stablecoins)
+* transfering swicks (Iota stablecoins)
+```
 * Automate the workflow. 
