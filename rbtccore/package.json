@@ -1,0 +1,17 @@
+{
+  "name": "rbtccore",
+  "version": "1.0.0",
+  "description": "RBTC (Rootstock Bitcoin) core for MoneyOnRoot",
+  "main": "connect.js",
+  "type": "commonjs",
+  "scripts": {
+    "test-node": "node connect.js",
+    "test-balance": "node balance.js",
+    "test-tx": "node transaction.js",
+    "deploy": "node contracts/deploy.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^6.0.0"
+  }
+}

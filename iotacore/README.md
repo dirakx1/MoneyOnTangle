@@ -1,9 +1,9 @@
-# Iotacore for MoneyOnTangle
+# Iotacore for MoneyOnRoot
 
 
 * Iotacore will be in charge of controlling money transactions. 
 
-* As example we can interact with DEVNET for testing (and validation of MoneyOnTangle workflow) purposes, using a python/go/node/rust etc client library for this purpose 
+* As example we can interact with DEVNET for testing (and validation of MoneyOnRoot workflow) purposes, using a python/go/node/rust etc client library for this purpose 
 
 For example :
 

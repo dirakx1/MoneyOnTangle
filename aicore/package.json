@@ -1,0 +1,16 @@
+{
+  "name": "aicore",
+  "version": "1.0.0",
+  "description": "Agentic AI core for MoneyOnRoot — Claude-powered RBTC transaction agent",
+  "main": "agent.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node agent.js",
+    "agent": "node agent.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "dotenv": "^16.0.0",
+    "ethers": "^6.0.0"
+  }
+}
